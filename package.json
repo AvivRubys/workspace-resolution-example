@@ -1,0 +1,11 @@
+{
+  "name": "root",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Aviv Rozenboim <aviv@soluto.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "inner-package"
+  ]
+}
